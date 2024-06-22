@@ -5,7 +5,7 @@ Package to find file or directory by name, method returns first found result.
 ## Installation
 
 ```shell
-npm i --save-dev fsfind
+npm i --save-dev @paolofernetti/fsfind
 ```
 
 ## Usage

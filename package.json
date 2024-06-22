@@ -1,5 +1,5 @@
 {
-  "name": "fsfind",
+  "name": "@paolofernetti/fsfind",
   "version": "0.0.1",
   "description": "File system finder",
   "main": "dist/cjs/index.js",
