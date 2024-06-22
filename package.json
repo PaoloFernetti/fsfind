@@ -1,6 +1,6 @@
 {
   "name": "@paolofernetti/fsfind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "File system finder",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.mjs",
