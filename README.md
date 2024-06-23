@@ -1,4 +1,6 @@
 # File System Finder
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/PaoloFernetti/fsfind/release.yml) ![GitHub package.json version](https://img.shields.io/github/package-json/v/PaoloFernetti/fsfind)
+![GitHub Created At](https://img.shields.io/github/created-at/PaoloFernetti/fsfind) ![GitHub Release Date](https://img.shields.io/github/release-date/PaoloFernetti/fsfind)
 
 Package to find file or directory by name, method returns first found result.
 
