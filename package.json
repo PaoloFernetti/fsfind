@@ -6,6 +6,7 @@
   "module": "dist/es/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
+    "test": "node dist/cjs/index.js",
     "build:cjs": "rollup -c build/rollup.config.cjs.mjs",
     "build:es": "rollup -c build/rollup.config.es.mjs",
     "build": "npm run build:cjs && npm run build:es && npm run types",
