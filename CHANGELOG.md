@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/PaoloFernetti/fsfind/compare/v1.0.1...v1.1.0) (2025-11-22)
+
+
+### Features
+
+* replacing functions with class ([5a807a8](https://github.com/PaoloFernetti/fsfind/commit/5a807a89ffd1cd0d1d1f3c73ff42f9bd33cbd80a))
+
 ## [1.0.1](https://github.com/PaoloFernetti/fsfind/compare/v1.0.0...v1.0.1) (2024-06-22)
 
 
