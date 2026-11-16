@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/PaoloFernetti/fsfind/compare/v1.1.0...v1.1.1) (2026-11-16)
+
+
+### Bug Fixes
+
+* **ci:** normalize line endings and verify release tokens ([0e098da](https://github.com/PaoloFernetti/fsfind/commit/0e098da79d7446f4fdf79b03233568c4d22b3592))
+
 # [1.1.0](https://github.com/PaoloFernetti/fsfind/compare/v1.0.1...v1.1.0) (2025-11-22)
 
 
