@@ -55,8 +55,8 @@
         "types": "tsc -p tsconfig.build.json",
         "typecheck": "tsc --noEmit",
         "lint": "eslint src",
-        "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.cjs\" \"benchmarks/**/*.mjs\" \"build/**/*.mjs\" \"*.json\"",
-        "format:check": "prettier --check \"src/**/*.ts\" \"tests/**/*.cjs\" \"benchmarks/**/*.mjs\" \"build/**/*.mjs\" \"*.json\"",
+        "format": "prettier --write \"src/**/*.ts\" \"tests/**/*.cjs\" \"benchmarks/**/*.mjs\" \"build/**/*.mjs\" \"*.json\" \".github/**/*.yml\"",
+        "format:check": "prettier --check \"src/**/*.ts\" \"tests/**/*.cjs\" \"benchmarks/**/*.mjs\" \"build/**/*.mjs\" \"*.json\" \".github/**/*.yml\"",
         "test": "npm run build && node --test tests/finder.test.cjs",
         "bench": "npm run build && node benchmarks/run.mjs",
         "release": "semantic-release"
