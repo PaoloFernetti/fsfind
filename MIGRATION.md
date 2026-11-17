@@ -1,6 +1,6 @@
-# Migration guide: 1.x to 2.0
+# Migration guide: 1.x to 2.0.0
 
-Version 2.0 is a breaking release focused on correctness, cross-platform support and long-running
+Version 2.0.0 is a breaking release focused on correctness, cross-platform support and long-running
 scans.
 
 ## `find` is asynchronous

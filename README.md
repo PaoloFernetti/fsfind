@@ -271,7 +271,7 @@ Practical defaults:
 
 ## Migration from 1.x
 
-See [MIGRATION.md](MIGRATION.md). Version 2.0 is a breaking release: `find` is asynchronous and the
+See [MIGRATION.md](MIGRATION.md). Version 2.0.0 is a breaking release: `find` is asynchronous and the
 `"Unsupported OS"` return value is gone.
 
 ## Contact
