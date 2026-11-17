@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/PaoloFernetti/fsfind/compare/v1.1.1...v2.0.0) (2026-11-17)
+
+
+### Features
+
+* prepare the 2.0.0 release ([8b513f2](https://github.com/PaoloFernetti/fsfind/commit/8b513f2c37d9bc07d76a9a55a785aa72f822b0f5))
+
+
+### BREAKING CHANGES
+
+* find() is asynchronous and returns Promise<string | undefined>.
+findSync() replaces the synchronous behavior, POSIX systems are searched from /
+instead of returning "Unsupported OS", and CommonJS consumers receive named
+exports with find as the default export.
+
 ## [1.1.1](https://github.com/PaoloFernetti/fsfind/compare/v1.1.0...v1.1.1) (2026-11-16)
 
 
