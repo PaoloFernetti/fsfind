@@ -1,7 +1,8 @@
 # File System Finder
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/PaoloFernetti/fsfind/ci.yml) ![GitHub package.json version](https://img.shields.io/github/package-json/v/PaoloFernetti/fsfind)
-![GitHub Created At](https://img.shields.io/github/created-at/PaoloFernetti/fsfind) ![GitHub Release Date](https://img.shields.io/github/release-date/PaoloFernetti/fsfind)
+![GitHub Created At](https://img.shields.io/github/created-at/PaoloFernetti/fsfind) ![GitHub Release Date](https://img.shields.io/github/release-date/PaoloFernetti/fsfind)![NPM Downloads](https://img.shields.io/npm/d18m/%40paolofernetti%2Ffsfind)
+
 
 Cross-platform file system finder. Locate a file or directory anywhere on the machine with an
 asynchronous, cancellable walker.
