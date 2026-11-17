@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/PaoloFernetti/fsfind/compare/v2.0.0...v2.0.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* **README:** adding downloadings badge ([efc2c97](https://github.com/PaoloFernetti/fsfind/commit/efc2c97f87c85380bb4fb8c732d7340c3dc23130))
+
 # [2.0.0](https://github.com/PaoloFernetti/fsfind/compare/v1.1.1...v2.0.0) (2026-11-17)
 
 

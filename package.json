@@ -1,6 +1,6 @@
 {
     "name": "@paolofernetti/fsfind",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Cross-platform file system finder: locate a file or directory anywhere on the machine",
     "license": "MIT",
     "author": {
